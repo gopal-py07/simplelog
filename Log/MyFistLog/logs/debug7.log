@@ -1,0 +1,38 @@
+INFO 2020-07-28 20:34:27,011 autoreload 10656 5176 Watching for file changes with StatReloader
+WARNING 2020-07-28 20:34:28,849 log 10656 7044 Not Found: /
+WARNING 2020-07-28 20:34:28,849 basehttp 10656 7044 "GET / HTTP/1.1" 404 2026
+INFO 2020-07-28 20:34:34,375 views 10656 7044 my 1st log info
+WARNING 2020-07-28 20:34:34,375 views 10656 7044 my 1st warning
+ERROR 2020-07-28 20:34:34,375 views 10656 7044 my 1st log error
+INFO 2020-07-28 20:34:34,558 basehttp 10656 7044 "GET /f/l/ HTTP/1.1" 200 138
+INFO 2020-07-29 10:00:49,424 autoreload 2352 7072 Watching for file changes with StatReloader
+WARNING 2020-07-29 10:00:52,044 log 2352 11136 Not Found: /
+WARNING 2020-07-29 10:00:52,044 basehttp 2352 11136 "GET / HTTP/1.1" 404 2026
+WARNING 2020-07-29 10:00:52,109 log 2352 11136 Not Found: /favicon.ico
+WARNING 2020-07-29 10:00:52,110 basehttp 2352 11136 "GET /favicon.ico HTTP/1.1" 404 2077
+INFO 2020-07-29 10:00:55,202 views 2352 11136 my 1st log info
+WARNING 2020-07-29 10:00:55,202 views 2352 11136 my 1st warning
+ERROR 2020-07-29 10:00:55,202 views 2352 11136 my 1st log error
+INFO 2020-07-29 10:01:00,210 views 2352 8956 my 1st log info
+WARNING 2020-07-29 10:01:00,210 views 2352 8956 my 1st warning
+ERROR 2020-07-29 10:01:00,210 views 2352 8956 my 1st log error
+INFO 2020-07-29 10:01:19,700 autoreload 11240 6464 Watching for file changes with StatReloader
+WARNING 2020-07-29 10:01:21,416 log 11240 7792 Not Found: /
+WARNING 2020-07-29 10:01:21,416 basehttp 11240 7792 "GET / HTTP/1.1" 404 2026
+INFO 2020-07-29 10:01:25,880 views 11240 7792 my 1st log info
+WARNING 2020-07-29 10:01:25,880 views 11240 7792 my 1st warning
+ERROR 2020-07-29 10:01:25,880 views 11240 7792 my 1st log error
+INFO 2020-07-29 10:02:10,622 basehttp 11240 7792 "GET /f/l/ HTTP/1.1" 200 138
+INFO 2020-07-29 10:03:46,162 autoreload 4436 440 Watching for file changes with StatReloader
+WARNING 2020-07-29 10:03:48,110 log 4436 4492 Not Found: /
+WARNING 2020-07-29 10:03:48,110 basehttp 4436 4492 "GET / HTTP/1.1" 404 2026
+INFO 2020-07-29 10:03:53,184 views 4436 4492 my 1st log info
+WARNING 2020-07-29 10:03:53,184 views 4436 4492 my 1st warning
+ERROR 2020-07-29 10:03:53,184 views 4436 4492 my 1st log error
+INFO 2020-07-29 10:03:58,214 views 4436 10388 my 1st log info
+WARNING 2020-07-29 10:03:58,214 views 4436 10388 my 1st warning
+ERROR 2020-07-29 10:03:58,214 views 4436 10388 my 1st log error
+INFO 2020-07-29 10:05:13,642 autoreload 8428 10260 Watching for file changes with StatReloader
+INFO 2020-07-29 10:05:17,342 views 8428 5964 my 1st log info
+WARNING 2020-07-29 10:05:17,342 views 8428 5964 my 1st warning
+ERROR 2020-07-29 10:05:17,342 views 8428 5964 my 1st log error

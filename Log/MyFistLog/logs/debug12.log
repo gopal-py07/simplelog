@@ -1,0 +1,13 @@
+INFO 2020-08-04 16:41:19,171 autoreload 598 376 11468 Watching for file changes with StatReloader 
+INFO 2020-08-04 16:42:11,691 autoreload 598 7832 10660 Watching for file changes with StatReloader 
+INFO 2020-08-04 16:42:41,401 autoreload 598 8540 6964 Watching for file changes with StatReloader 
+WARNING 2020-08-04 16:42:43,423 log 222 8540 6672 Not Found: / 
+WARNING 2020-08-04 16:42:43,424 basehttp 157 8540 6672 "GET / HTTP/1.1" 404 2026 
+INFO 2020-08-04 16:42:46,587 views 18 8540 6672 my 1st log info 
+WARNING 2020-08-04 16:42:46,588 views 20 8540 6672 my 1st warning 
+ERROR 2020-08-04 16:42:46,588 views 21 8540 6672 my 1st log error 
+INFO 2020-08-04 16:42:51,588 views 18 8540 11592 my 1st log info 
+WARNING 2020-08-04 16:42:51,588 views 20 8540 11592 my 1st warning 
+ERROR 2020-08-04 16:42:51,588 views 21 8540 11592 my 1st log error 
+INFO 2020-08-04 16:43:20,895 views 28 8540 11592 successfully print result 
+INFO 2020-08-04 16:43:20,906 basehttp 157 8540 11592 "GET /f/l/ HTTP/1.1" 200 133 

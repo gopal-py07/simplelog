@@ -1,0 +1,23 @@
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2026
+WARNING my 1st warning
+ERROR my 1st log error
+WARNING 2020-07-28 10:07:22,543 log 11372 7968 Not Found: /
+WARNING 2020-07-28 10:07:22,543 basehttp 11372 7968 "GET / HTTP/1.1" 404 2026
+WARNING 2020-07-28 10:07:26,634 views 11372 7968 my 1st warning
+ERROR 2020-07-28 10:07:26,634 views 11372 7968 my 1st log error
+INFO 2020-07-28 10:08:52,262 autoreload 12360 4776 Watching for file changes with StatReloader
+WARNING 2020-07-28 10:08:54,078 log 12360 2176 Not Found: /
+WARNING 2020-07-28 10:08:54,079 basehttp 12360 2176 "GET / HTTP/1.1" 404 2026
+INFO 2020-07-28 10:08:58,864 views 12360 2176 my 1st log info
+WARNING 2020-07-28 10:08:58,864 views 12360 2176 my 1st warning
+ERROR 2020-07-28 10:08:58,865 views 12360 2176 my 1st log error
+INFO 2020-07-28 10:08:58,872 basehttp 12360 2176 "GET /f/l/ HTTP/1.1" 200 138
+INFO 2020-07-28 20:31:20,019 autoreload 7172 13704 Watching for file changes with StatReloader
+WARNING 2020-07-28 20:31:23,831 basehttp 7172 13984 "GET / HTTP/1.1" 404 2026
+WARNING 2020-07-28 20:31:23,914 basehttp 7172 13984 "GET /favicon.ico HTTP/1.1" 404 2077
+INFO 2020-07-28 20:31:30,393 views 7172 13984 my 1st log info
+WARNING 2020-07-28 20:31:30,393 views 7172 13984 my 1st warning
+ERROR 2020-07-28 20:31:30,393 views 7172 13984 my 1st log error
+INFO 2020-07-28 20:31:30,441 basehttp 7172 13984 "GET /f/l/ HTTP/1.1" 200 138
+INFO 2020-07-28 20:34:12,170 autoreload 14148 8176 Watching for file changes with StatReloader

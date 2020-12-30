@@ -1,0 +1,78 @@
+INFO 2020-07-31 10:00:23,508 autoreload 11308 8812 Watching for file changes with StatReloader 
+WARNING 2020-07-31 10:00:25,862 log 11308 13640 Not Found: / 
+WARNING 2020-07-31 10:00:25,862 basehttp 11308 13640 "GET / HTTP/1.1" 404 2026 
+INFO 2020-07-31 10:00:30,217 views 11308 13640 my 1st log info 
+WARNING 2020-07-31 10:00:30,217 views 11308 13640 my 1st warning 
+ERROR 2020-07-31 10:00:30,217 views 11308 13640 my 1st log error 
+INFO 2020-07-31 10:00:35,243 views 11308 5292 my 1st log info 
+WARNING 2020-07-31 10:00:35,243 views 11308 5292 my 1st warning 
+ERROR 2020-07-31 10:00:35,243 views 11308 5292 my 1st log error 
+INFO 2020-07-31 10:00:38,957 views 11308 13640 successfully print result 
+INFO 2020-07-31 10:01:10,133 autoreload 11308 8812 E:\GGhule\f drive\Logging\MyFistLog\firstlog\views.py changed, reloading. 
+INFO 2020-07-31 10:01:14,395 autoreload 760 9476 Watching for file changes with StatReloader 
+WARNING 2020-07-31 10:01:18,653 log 760 11532 Not Found: / 
+WARNING 2020-07-31 10:01:18,653 basehttp 760 11532 "GET / HTTP/1.1" 404 2026 
+INFO 2020-07-31 10:01:22,639 views 760 11532 my 1st log info 
+WARNING 2020-07-31 10:01:22,639 views 760 11532 my 1st warning 
+ERROR 2020-07-31 10:01:22,639 views 760 11532 my 1st log error 
+ERROR 2020-07-31 10:01:32,790 views 760 11532 exception please enter non zero value 
+Traceback (most recent call last):
+  File "E:\GGhule\f drive\Logging\MyFistLog\firstlog\views.py", line 20, in flog
+    result = n / n1
+ZeroDivisionError: division by zero
+INFO 2020-07-31 10:01:32,798 basehttp 760 11532 "GET /f/l/ HTTP/1.1" 200 133 
+INFO 2020-07-31 10:07:23,928 autoreload 598 13996 7456 Watching for file changes with StatReloader 
+WARNING 2020-07-31 10:07:25,953 log 222 13996 11808 Not Found: / 
+WARNING 2020-07-31 10:07:25,961 basehttp 157 13996 11808 "GET / HTTP/1.1" 404 2026 
+INFO 2020-07-31 10:07:29,440 views 12 13996 11808 my 1st log info 
+WARNING 2020-07-31 10:07:29,448 views 14 13996 11808 my 1st warning 
+ERROR 2020-07-31 10:07:29,448 views 15 13996 11808 my 1st log error 
+INFO 2020-07-31 10:07:34,448 views 12 13996 7620 my 1st log info 
+WARNING 2020-07-31 10:07:34,448 views 14 13996 7620 my 1st warning 
+ERROR 2020-07-31 10:07:34,448 views 15 13996 7620 my 1st log error 
+INFO 2020-07-31 10:07:40,246 views 22 13996 11808 successfully print result 
+INFO 2020-07-31 10:07:45,460 autoreload 598 10444 12432 Watching for file changes with StatReloader 
+WARNING 2020-07-31 10:07:46,789 log 222 10444 9636 Not Found: / 
+WARNING 2020-07-31 10:07:46,789 basehttp 157 10444 9636 "GET / HTTP/1.1" 404 2026 
+INFO 2020-07-31 10:07:53,323 views 12 10444 9636 my 1st log info 
+WARNING 2020-07-31 10:07:53,323 views 14 10444 9636 my 1st warning 
+ERROR 2020-07-31 10:07:53,323 views 15 10444 9636 my 1st log error 
+INFO 2020-07-31 10:08:02,583 views 22 10444 9636 successfully print result 
+INFO 2020-07-31 10:08:02,589 basehttp 157 10444 9636 "GET /f/l/ HTTP/1.1" 200 133 
+INFO 2020-07-31 11:05:23,123 autoreload 598 4036 7548 Watching for file changes with StatReloader 
+WARNING 2020-07-31 11:05:25,183 log 222 4036 856 Not Found: / 
+WARNING 2020-07-31 11:05:25,183 basehttp 157 4036 856 "GET / HTTP/1.1" 404 2026 
+WARNING 2020-07-31 11:05:25,297 log 222 4036 856 Not Found: /favicon.ico 
+WARNING 2020-07-31 11:05:25,298 basehttp 157 4036 856 "GET /favicon.ico HTTP/1.1" 404 2077 
+INFO 2020-07-31 11:06:41,632 autoreload 598 3684 1820 Watching for file changes with StatReloader 
+WARNING 2020-07-31 11:06:43,321 log 222 3684 2988 Not Found: / 
+WARNING 2020-07-31 11:06:43,322 basehttp 157 3684 2988 "GET / HTTP/1.1" 404 2026 
+INFO 2020-07-31 11:06:57,593 basehttp 157 3684 2988 "GET /f/l/ HTTP/1.1" 200 133 
+INFO 2020-07-31 11:08:02,659 autoreload 598 4652 4872 Watching for file changes with StatReloader 
+WARNING 2020-07-31 11:08:04,289 log 222 4652 3112 Not Found: / 
+WARNING 2020-07-31 11:08:04,289 basehttp 157 4652 3112 "GET / HTTP/1.1" 404 2026 
+INFO 2020-07-31 11:08:48,928 autoreload 598 8000 8020 Watching for file changes with StatReloader 
+WARNING 2020-07-31 11:08:50,599 log 222 8000 6784 Not Found: / 
+WARNING 2020-07-31 11:08:50,599 basehttp 157 8000 6784 "GET / HTTP/1.1" 404 2026 
+INFO 2020-07-31 11:09:02,318 basehttp 157 8000 6784 "GET /f/l/ HTTP/1.1" 200 133 
+INFO 2020-07-31 11:09:43,796 autoreload 598 4560 4076 Watching for file changes with StatReloader 
+WARNING 2020-07-31 11:09:45,587 log 222 4560 5172 Not Found: / 
+WARNING 2020-07-31 11:09:45,587 basehttp 157 4560 5172 "GET / HTTP/1.1" 404 2026 
+INFO 2020-07-31 11:09:50,114 views 13 4560 5172 my 1st log info 
+WARNING 2020-07-31 11:09:50,115 views 15 4560 5172 my 1st warning 
+ERROR 2020-07-31 11:09:50,115 views 16 4560 5172 my 1st log error 
+INFO 2020-07-31 11:09:55,115 views 13 4560 1244 my 1st log info 
+WARNING 2020-07-31 11:09:55,115 views 15 4560 1244 my 1st warning 
+ERROR 2020-07-31 11:09:55,115 views 16 4560 1244 my 1st log error 
+ERROR 2020-07-31 11:10:06,034 log 222 4560 5172 Internal Server Error: /f/l/ 
+Traceback (most recent call last):
+  File "E:\GGhule\f drive\Logging\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "E:\GGhule\f drive\Logging\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\GGhule\f drive\Logging\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\GGhule\f drive\Logging\MyFistLog\firstlog\views.py", line 19, in flog
+    n1= int(input('enter 2nd number'))
+ValueError: invalid literal for int() with base 10: 'e'
+INFO 2020-07-31 11:25:13,663 autoreload 222 4560 4076 E:\GGhule\f drive\Logging\MyFistLog\MyFistLog\settings.py changed, reloading. 

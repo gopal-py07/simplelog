@@ -1,0 +1,40 @@
+INFO 2020-07-31 11:25:23,193 autoreload 598 3304 7676 Watching for file changes with StatReloader 
+WARNING 2020-07-31 11:25:25,325 log 222 3304 2976 Not Found: / 
+WARNING 2020-07-31 11:25:25,326 basehttp 157 3304 2976 "GET / HTTP/1.1" 404 2026 
+INFO 2020-07-31 11:28:22,971 autoreload 598 7656 3452 Watching for file changes with StatReloader 
+WARNING 2020-07-31 11:28:25,821 log 222 7656 5584 Not Found: / 
+WARNING 2020-07-31 11:28:25,821 basehttp 157 7656 5584 "GET / HTTP/1.1" 404 2026 
+WARNING 2020-07-31 11:28:25,868 log 222 7656 5584 Not Found: /favicon.ico 
+WARNING 2020-07-31 11:28:25,868 basehttp 157 7656 5584 "GET /favicon.ico HTTP/1.1" 404 2077 
+ERROR 2020-07-31 11:28:43,090 log 222 7656 5584 Internal Server Error: /f/l/ 
+Traceback (most recent call last):
+  File "E:\GGhule\f drive\Logging\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "E:\GGhule\f drive\Logging\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\GGhule\f drive\Logging\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\GGhule\f drive\Logging\MyFistLog\firstlog\views.py", line 18, in flog
+    n= int(input('enter first number'))
+ValueError: invalid literal for int() with base 10: '1o'
+INFO 2020-07-31 11:28:53,692 autoreload 598 5776 1892 Watching for file changes with StatReloader 
+WARNING 2020-07-31 11:28:58,147 log 222 5776 5460 Not Found: / 
+WARNING 2020-07-31 11:28:58,148 basehttp 157 5776 5460 "GET / HTTP/1.1" 404 2026 
+INFO 2020-07-31 11:29:14,831 basehttp 157 5776 1420 "GET /f/l/ HTTP/1.1" 200 133 
+INFO 2020-07-31 11:30:42,360 basehttp 157 5776 1420 "GET /f/l/ HTTP/1.1" 200 133 
+INFO 2020-07-31 11:39:44,290 autoreload 222 5776 1892 E:\GGhule\f drive\Logging\MyFistLog\firstlog\views.py changed, reloading. 
+INFO 2020-07-31 11:39:44,827 autoreload 598 7248 5004 Watching for file changes with StatReloader 
+INFO 2020-08-03 10:20:41,037 autoreload 598 4348 9976 Watching for file changes with StatReloader 
+WARNING 2020-08-03 10:20:43,773 log 222 4348 9080 Not Found: / 
+WARNING 2020-08-03 10:20:43,773 basehttp 157 4348 9080 "GET / HTTP/1.1" 404 2026 
+WARNING 2020-08-03 10:20:43,832 log 222 4348 9080 Not Found: /favicon.ico 
+WARNING 2020-08-03 10:20:43,832 basehttp 157 4348 9080 "GET /favicon.ico HTTP/1.1" 404 2077 
+INFO 2020-08-03 10:20:48,494 views 14 4348 9080 my 1st log info 
+WARNING 2020-08-03 10:20:48,494 views 16 4348 9080 my 1st warning 
+ERROR 2020-08-03 10:20:48,494 views 17 4348 9080 my 1st log error 
+INFO 2020-08-03 10:20:55,519 views 14 4348 8944 my 1st log info 
+WARNING 2020-08-03 10:20:55,519 views 16 4348 8944 my 1st warning 
+ERROR 2020-08-03 10:20:55,519 views 17 4348 8944 my 1st log error 
+INFO 2020-08-03 10:21:03,943 views 24 4348 9080 successfully print result 
+INFO 2020-08-04 16:32:13,814 autoreload 598 10528 2400 Watching for file changes with StatReloader 
+INFO 2020-08-04 16:41:18,618 autoreload 222 10528 2400 E:\GGhule\f drive\Logging\MyFistLog\MyFistLog\settings.py changed, reloading. 

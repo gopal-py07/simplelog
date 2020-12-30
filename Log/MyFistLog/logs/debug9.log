@@ -1,0 +1,8 @@
+INFO 2020-07-31 09:59:43,020 autoreload 6016 12044 Watching for file changes with StatReloader 
+WARNING 2020-07-31 09:59:49,385 log 6016 5084 Not Found: / 
+WARNING 2020-07-31 09:59:49,385 basehttp 6016 5084 "GET / HTTP/1.1" 404 2026 
+INFO 2020-07-31 09:59:53,974 views 6016 5084 my 1st log info 
+WARNING 2020-07-31 09:59:53,974 views 6016 5084 my 1st warning 
+ERROR 2020-07-31 09:59:53,974 views 6016 5084 my 1st log error 
+INFO 2020-07-31 10:00:00,902 views 6016 5084 successfully print result 
+INFO 2020-07-31 10:00:00,909 basehttp 6016 5084 "GET /f/l/ HTTP/1.1" 200 133 

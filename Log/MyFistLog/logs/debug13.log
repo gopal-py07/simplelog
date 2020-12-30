@@ -1,0 +1,25 @@
+INFO 2020-08-12 13:30:13,854 autoreload 598 7088 5684 Watching for file changes with StatReloader 
+INFO 2020-08-12 13:30:35,551 autoreload 598 556 5920 Watching for file changes with StatReloader 
+WARNING 2020-08-12 13:30:39,648 log 222 556 2416 Not Found: / 
+WARNING 2020-08-12 13:30:39,648 basehttp 157 556 2416 "GET / HTTP/1.1" 404 2026 
+WARNING 2020-08-12 13:30:39,730 log 222 556 2416 Not Found: /favicon.ico 
+WARNING 2020-08-12 13:30:39,731 basehttp 157 556 2416 "GET /favicon.ico HTTP/1.1" 404 2077 
+INFO 2020-08-12 13:30:54,214 basehttp 157 556 2416 "GET /f/l HTTP/1.1" 301 0 
+INFO 2020-08-12 13:30:54,244 views 18 556 2416 pankaj info 
+WARNING 2020-08-12 13:30:54,244 views 20 556 2416 my 1st warning 
+ERROR 2020-08-12 13:30:54,244 views 21 556 2416 my 1st log error 
+INFO 2020-08-12 13:30:58,191 views 18 556 3648 pankaj info 
+WARNING 2020-08-12 13:30:58,191 views 20 556 3648 my 1st warning 
+ERROR 2020-08-12 13:30:58,191 views 21 556 3648 my 1st log error 
+INFO 2020-08-12 13:31:27,849 views 28 556 2416 successfully print result 
+INFO 2020-08-14 11:33:04,745 autoreload 598 6228 1596 Watching for file changes with StatReloader 
+INFO 2020-08-14 11:33:53,425 autoreload 598 10760 9824 Watching for file changes with StatReloader 
+INFO 2020-08-14 11:34:14,005 autoreload 598 7476 10152 Watching for file changes with StatReloader 
+WARNING 2020-08-14 11:34:35,901 log 222 7476 9692 Not Found: / 
+WARNING 2020-08-14 11:34:35,902 basehttp 157 7476 9692 "GET / HTTP/1.1" 404 2026 
+INFO 2020-08-14 11:34:40,769 views 18 7476 9692 pankaj info 
+WARNING 2020-08-14 11:34:40,769 views 20 7476 9692 my 1st warning 
+ERROR 2020-08-14 11:34:40,769 views 21 7476 9692 my 1st log error 
+INFO 2020-08-14 11:34:45,234 basehttp 157 7476 6764 "GET /f/mail HTTP/1.1" 301 0 
+INFO 2020-08-14 11:34:46,616 basehttp 157 7476 6764 "GET /f/mail/ HTTP/1.1" 200 148 
+INFO 2020-08-14 11:36:32,171 views 28 7476 9692 successfully print result 
